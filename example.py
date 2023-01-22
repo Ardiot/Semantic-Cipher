@@ -1,4 +1,4 @@
-""" Created by Carlos Garcia @Ardiot"""
+""" Created by Carlos Garcia @Ardiot """
 
 from semantic_cypher import SemanticCypher
 
